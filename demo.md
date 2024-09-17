@@ -36,3 +36,9 @@ This is a link to [My Portfolio](https://github.com/MohithJegan)
 This is an image:
 
 ![Planet Image](planet.jpg)
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an `<img>` tag.
