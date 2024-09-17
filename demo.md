@@ -58,3 +58,8 @@ function test(){
 | HTML       |  5     |
 | JavaScript |  7     |
 | CSS        |  9     |
+
+# Github Flavour
+
+> Note
+> This is a note!
