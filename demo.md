@@ -31,3 +31,8 @@ This is an unordered list:
 
 This is a link to [My Portfolio](https://github.com/MohithJegan)
 
+## Images
+
+This is an image:
+
+![Planet Image](planet.jpg)
