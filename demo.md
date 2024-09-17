@@ -12,6 +12,8 @@ This text is _italics_.
 
 This text is **_bold and italics_**.
 
+## Lists
+
 This is an ordered list:
 
 1. Item Number One
